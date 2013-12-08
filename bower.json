@@ -1,0 +1,21 @@
+{
+  "name": "webapps-bower-bootstrap",
+  "version": "0.0.1",
+  "homepage": "https://github.com/xl8/webapps-bower-bootstrap",
+  "authors": [
+    "Ofer Itzhaki (oferi@exelate.com)"
+  ],
+  "description": "eXelate webapps team twitter bootstrap bower component",
+  "main": "bootstrap.webapps.js",
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
