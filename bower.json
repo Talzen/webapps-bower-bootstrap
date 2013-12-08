@@ -7,15 +7,18 @@
   ],
   "description": "eXelate webapps team twitter bootstrap bower component",
   "main": "bootstrap.webapps.js",
+  "dependencies": {
+    "jquery": ">=1.9.1"
+  },
   "keywords": [
     "bootstrap"
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+   "test",
+    ".*",
+    "*.json",
+    "*.md",
+    "*.txt"
   ]
 }
