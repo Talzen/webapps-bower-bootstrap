@@ -3,10 +3,6 @@ webapps-bower-bootstrap
 
 eXelate webapps team twitter bootstrap bower component
 
-the component contains:
+the component contains the javascript part of bootstrap 3.1.1
 
-bootstrap-dropdown.js v2.3.1
 
-bootstrap-popover.js v2.2.1
-
-bootstrap-tooltip.js v2.3.1
