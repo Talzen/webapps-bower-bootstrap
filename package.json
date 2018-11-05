@@ -1,18 +1,17 @@
 {
   "name": "webapps-bower-bootstrap",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "homepage": "https://github.com/xl8/webapps-bower-bootstrap",
-  "authors": [
-    "Ofer Itzhaki (oferi@exelate.com)"
-  ],
+  "author": "Ofer Itzhaki (oferi@exelate.com)",
   "description": "eXelate webapps team twitter bootstrap bower component",
   "main": "bootstrap.webapps.js",
-  "dependencies": {
-    "jquery": ">=1.9.1"
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/xl8/webapps-bower-bootstrap.git"
   },
-  "keywords": [
-    "bootstrap"
-  ],
+  "dependencies": {
+      "jquery": ">=1.9.1"
+  },
   "license": "MIT",
   "ignore": [
    "test",
